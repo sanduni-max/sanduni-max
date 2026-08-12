@@ -259,13 +259,7 @@ Linux • Bash • IPTables • SSH • System Hardening
 
 </p>
 
----
 
-<h3 align="left">📈 GitHub Stats:</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sanduni-max&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9" alt="Sanduni's GitHub Stats"/>
-</p>
 
 ---
 
@@ -277,13 +271,6 @@ Linux • Bash • IPTables • SSH • System Hardening
 
 ---
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sanduni-max&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-</p>
-
----
 
 <h3 align="left">🌐 Connect With Me:</h3>
 
@@ -321,16 +308,3 @@ Linux • Bash • IPTables • SSH • System Hardening
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7C3AED,100:0D1117&height=120&section=footer"/>
 
 </p>
-/sanduni-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
