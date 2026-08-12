@@ -1,4 +1,5 @@
-<h1 align="center"> <span style="color:#4169E1;🛡️ Hi 👋, I'm Sanduni Sewwandi</span> </h1>
+<h1 align="center">  <span style="color:#00BFFF;">🛡️ Hi 👋, I'm Sanduni Sewwandi</span>
+    </h1>
 
 <h3 align="center">
 Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
