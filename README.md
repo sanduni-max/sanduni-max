@@ -10,7 +10,7 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
 
 ---
 
-<h3 align="left">👩‍💻 About Me:</h3>
+<h3 align="left"><span style="color:#00E5FF;"><b>About Me:</b></span></h3>
 
 <p align="left">
 
@@ -28,7 +28,7 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
 
 ---
 
-<h3 align="left">🎯 Currently Learning:</h3>
+<h3 align="left"><span style="color:#00E5FF;"><b>currently working:</b></span></h3>
 
 <p align="left">
 
@@ -43,7 +43,7 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
 
 ---
 
-<h3 align="left">🧠 Cyber Security & Networking:</h3>
+<h3 align="left"><span style="color:#00E5FF;"><b> Cyber Security & Networking:</b></span></h3>
 
 <p align="left">
 
@@ -83,7 +83,7 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
 
 ---
 
-<h3 align="left">📊 SIEM & Security Monitoring:</h3>
+<h3 align="left"><span style="color:#00E5FF;"><b>SIEM & Security Monitoring:</b></span></h3>
 
 <p align="left">
 
@@ -168,35 +168,12 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
        height="45"/>
 </a>
 
-<!-- Linux -->
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-       alt="Linux"
-       width="45"
-       height="45"/>
-</a>
-
-<!-- Git -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-       alt="Git"
-       width="45"
-       height="45"/>
-</a>
-
-<!-- GitHub -->
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-       alt="GitHub"
-       width="45"
-       height="45"/>
-</a>
 
 </p>
 
 ---
 
-<h3 align="left">💻 Programming Languages:</h3>
+<h3 align="left"><span style="color:#00E5FF;"><b>Programming Languages:</b></span></h3>
 
 <p align="left">
 
