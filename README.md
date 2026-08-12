@@ -103,42 +103,65 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
 
 <p align="left">
 
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
+<!-- AWS -->
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+       alt="AWS"
+       width="45"
+       height="45"/>
 </a>
 
-<a href="https://azure.microsoft.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="45" height="45"/>
+
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"
+       alt="Azure"
+       width="45"
+       height="45"/>
 </a>
 
-<a href="https://cloud.google.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="45" height="45"/>
+
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"
+       alt="Google Cloud"
+       width="45"
+       height="45"/>
 </a>
 
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+       alt="Docker"
+       width="45"
+       height="45"/>
 </a>
 
-<a href="https://kubernetes.io/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/>
+
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg"
+       alt="Kubernetes"
+       width="45"
+       height="45"/>
 </a>
 
-<a href="https://www.jenkins.io/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="45"/>
+
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"
+       alt="Jenkins"
+       width="45"
+       height="45"/>
 </a>
 
-<a href="https://www.ansible.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="45" height="45"/>
+
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg"
+       alt="Ansible"
+       width="45"
+       height="45"/>
 </a>
 
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="45" height="45"/>
-</a>
 
 </p>
-
 ---
-
 <h3 align="left">💻 Programming Languages:</h3>
 
 <p align="left">
