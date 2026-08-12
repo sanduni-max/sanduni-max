@@ -1,5 +1,4 @@
-<h1 align="center">  <span style="color:#00BFFF;">🛡️ Hi 👋, I'm Sanduni Sewwandi</span>
-    </h1>
+<h1 align="center">🛡️ Hi 👋, I'm Sanduni Sewwandi</h1>
 
 <h3 align="center">
 Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
@@ -9,7 +8,7 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
   <img src="https://komarev.com/ghpvc/?username=sanduni-max&label=Profile%20Views&color=00e5ff&style=for-the-badge" alt="sanduni-max" />
 </p>
 
-
+---
 
 <h3 align="left">👩‍💻 About Me:</h3>
 
@@ -27,7 +26,7 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
 
 </p>
 
-
+---
 
 <h3 align="left">🎯 Currently Learning:</h3>
 
@@ -42,7 +41,7 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
 
 </p>
 
-
+---
 
 <h3 align="left">🧠 Cyber Security & Networking:</h3>
 
@@ -82,28 +81,30 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
 
 </p>
 
+---
 
 <h3 align="left">📊 SIEM & Security Monitoring:</h3>
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Microsoft%20Sentinel-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Microsoft%20Sentinel-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=00E5FF" alt="Microsoft Sentinel"/>
 
-<img src="https://img.shields.io/badge/Splunk-0D1117?style=for-the-badge&logo=splunk&logoColor=65A637"/>
+<img src="https://img.shields.io/badge/Splunk-0D1117?style=for-the-badge&logo=splunk&logoColor=65A637" alt="Splunk"/>
 
-<img src="https://img.shields.io/badge/IBM%20QRadar-0D1117?style=for-the-badge&logo=ibm&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/IBM%20QRadar-0D1117?style=for-the-badge&logo=ibm&logoColor=00E5FF" alt="IBM QRadar"/>
 
-<img src="https://img.shields.io/badge/Elastic%20SIEM-0D1117?style=for-the-badge&logo=elastic&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Elastic%20SIEM-0D1117?style=for-the-badge&logo=elastic&logoColor=00E5FF" alt="Elastic SIEM"/>
+
+<img src="https://img.shields.io/badge/ELK%20Stack-0D1117?style=for-the-badge&logo=elastic&logoColor=00E5FF" alt="ELK Stack"/>
 
 </p>
 
-
-
+---
 <h3 align="left">☁️ DevOps & Cloud:</h3>
 
 <p align="left">
 
-
+<!-- AWS -->
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
        alt="AWS"
@@ -111,7 +112,7 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
        height="45"/>
 </a>
 
-
+<!-- Microsoft Azure -->
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"
        alt="Azure"
@@ -119,7 +120,7 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
        height="45"/>
 </a>
 
-
+<!-- Google Cloud -->
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"
        alt="Google Cloud"
@@ -127,7 +128,7 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
        height="45"/>
 </a>
 
-
+<!-- Docker -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
        alt="Docker"
@@ -135,7 +136,7 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
        height="45"/>
 </a>
 
-
+<!-- Kubernetes -->
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg"
        alt="Kubernetes"
@@ -143,7 +144,7 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
        height="45"/>
 </a>
 
-
+<!-- Jenkins -->
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"
        alt="Jenkins"
@@ -151,7 +152,7 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
        height="45"/>
 </a>
 
-
+<!-- Ansible -->
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg"
        alt="Ansible"
@@ -159,8 +160,41 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
        height="45"/>
 </a>
 
+<!-- Bash -->
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
+       alt="Bash"
+       width="45"
+       height="45"/>
+</a>
+
+<!-- Linux -->
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+       alt="Linux"
+       width="45"
+       height="45"/>
+</a>
+
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+       alt="Git"
+       width="45"
+       height="45"/>
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+       alt="GitHub"
+       width="45"
+       height="45"/>
+</a>
 
 </p>
+
+---
 
 <h3 align="left">💻 Programming Languages:</h3>
 
@@ -188,7 +222,7 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
 
 </p>
 
-
+---
 
 <h3 align="left">🔥 What I'm Working On:</h3>
 
@@ -204,7 +238,7 @@ Linux Administration • Docker • Kubernetes • CI/CD • Ansible • Cloud I
 
 </p>
 
-
+---
 
 <h3 align="left">🚀 Featured Projects:</h3>
 
@@ -225,7 +259,7 @@ Linux • Bash • IPTables • SSH • System Hardening
 
 </p>
 
-
+---
 
 <h3 align="left">📈 GitHub Stats:</h3>
 
@@ -233,8 +267,23 @@ Linux • Bash • IPTables • SSH • System Hardening
 <img src="https://github-readme-stats.vercel.app/api?username=sanduni-max&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9" alt="Sanduni's GitHub Stats"/>
 </p>
 
+---
 
+<h3 align="left">🔥 GitHub Streak:</h3>
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=sanduni-max&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" alt="GitHub Streak"/>
+</p>
+
+---
+
+<h3 align="left">🏆 GitHub Trophies:</h3>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sanduni-max&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+</p>
+
+---
 
 <h3 align="left">🌐 Connect With Me:</h3>
 
@@ -254,7 +303,7 @@ Linux • Bash • IPTables • SSH • System Hardening
 
 </p>
 
-
+---
 
 <h3 align="center">💭 Cyber Security Mindset</h3>
 
@@ -267,9 +316,12 @@ Linux • Bash • IPTables • SSH • System Hardening
   🔍 Detect • 🛡️ Protect • 🚨 Respond • 🔐 Recover • 📚 Keep Learning
 </p>
 
+<p align="center">
 
-<!--
-**sanduni-max/sanduni-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7C3AED,100:0D1117&height=120&section=footer"/>
+
+</p>
+/sanduni-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
