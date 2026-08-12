@@ -49,31 +49,38 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
 <p align="left">
 
 <a href="https://www.wireshark.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="wireshark" width="45" height="45"/>
-</a>
-
-<a href="https://www.kali.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" alt="kali" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00E5FF" alt="Wireshark"/>
 </a>
 
 <a href="https://nmap.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" alt="nmap" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=00E5FF" alt="Nmap"/>
 </a>
 
-<a href="https://www.snort.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/snort/snort-icon.svg" alt="snort" width="45" height="45"/>
+<a href="https://www.kali.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Kali%20Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557CFF" alt="Kali Linux"/>
 </a>
 
 <a href="https://suricata.io/" target="_blank">
-<img src="https://suricata.io/wp-content/uploads/2020/06/suri-icon.png" alt="suricata" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/Suricata-0D1117?style=for-the-badge&logoColor=00E5FF" alt="Suricata"/>
+</a>
+
+<a href="https://www.snort.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Snort-0D1117?style=for-the-badge&logoColor=00E5FF" alt="Snort"/>
 </a>
 
 <a href="https://www.cisco.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" alt="cisco" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/Cisco-0D1117?style=for-the-badge&logo=cisco&logoColor=00E5FF" alt="Cisco"/>
+</a>
+
+<a href="https://www.paloaltonetworks.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Palo%20Alto-0D1117?style=for-the-badge&logoColor=00E5FF" alt="Palo Alto"/>
+</a>
+
+<a href="https://www.fortinet.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Fortinet-0D1117?style=for-the-badge&logoColor=EE3124" alt="Fortinet"/>
 </a>
 
 </p>
-
 ---
 
 <h3 align="left">📊 SIEM & Security Monitoring:</h3>
