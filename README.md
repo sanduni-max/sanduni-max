@@ -9,7 +9,7 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
   <img src="https://komarev.com/ghpvc/?username=sanduni-max&label=Profile%20Views&color=00e5ff&style=for-the-badge" alt="sanduni-max" />
 </p>
 
----
+
 
 <h3 align="left">👩‍💻 About Me:</h3>
 
@@ -27,7 +27,7 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
 
 </p>
 
----
+
 
 <h3 align="left">🎯 Currently Learning:</h3>
 
@@ -42,7 +42,7 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
 
 </p>
 
----
+
 
 <h3 align="left">🧠 Cyber Security & Networking:</h3>
 
@@ -81,7 +81,7 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
 </a>
 
 </p>
----
+
 
 <h3 align="left">📊 SIEM & Security Monitoring:</h3>
 
@@ -97,13 +97,13 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
 
 </p>
 
----
+
 
 <h3 align="left">☁️ DevOps & Cloud:</h3>
 
 <p align="left">
 
-<!-- AWS -->
+
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
        alt="AWS"
@@ -161,7 +161,7 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
 
 
 </p>
----
+
 <h3 align="left">💻 Programming Languages:</h3>
 
 <p align="left">
@@ -188,7 +188,7 @@ Cyber Security Undergraduate • Network Security • Ethical Hacking • DevOps
 
 </p>
 
----
+
 
 <h3 align="left">🔥 What I'm Working On:</h3>
 
@@ -204,7 +204,7 @@ Linux Administration • Docker • Kubernetes • CI/CD • Ansible • Cloud I
 
 </p>
 
----
+
 
 <h3 align="left">🚀 Featured Projects:</h3>
 
@@ -225,7 +225,7 @@ Linux • Bash • IPTables • SSH • System Hardening
 
 </p>
 
----
+
 
 <h3 align="left">📈 GitHub Stats:</h3>
 
@@ -233,23 +233,8 @@ Linux • Bash • IPTables • SSH • System Hardening
 <img src="https://github-readme-stats.vercel.app/api?username=sanduni-max&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9" alt="Sanduni's GitHub Stats"/>
 </p>
 
----
 
-<h3 align="left">🔥 GitHub Streak:</h3>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sanduni-max&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" alt="GitHub Streak"/>
-</p>
-
----
-
-<h3 align="left">🏆 GitHub Trophies:</h3>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sanduni-max&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-</p>
-
----
 
 <h3 align="left">🌐 Connect With Me:</h3>
 
@@ -269,20 +254,17 @@ Linux • Bash • IPTables • SSH • System Hardening
 
 </p>
 
----
+
 
 <h3 align="center">💭 Cyber Security Mindset</h3>
 
+
 <p align="center">
-
-<b>"Security is not a product. It's a continuous process."</b>
-
+  <b>Think like an attacker. Defend like a professional. Secure by design.</b>
 </p>
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7C3AED,100:0D1117&height=120&section=footer"/>
-
+  🔍 Detect • 🛡️ Protect • 🚨 Respond • 🔐 Recover • 📚 Keep Learning
 </p>
 
 
