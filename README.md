@@ -91,7 +91,7 @@ Undergraduate Student
 
 ---
 
-## 📊 SIEM & Security Monitoring
+##  SIEM & Security Monitoring
 
 <p align="left">
 
@@ -160,7 +160,7 @@ Undergraduate Student
 
 ---
 
-## 💻 Programming & Technologies
+##  Programming & Technologies
 
 <p align="left">
 
@@ -204,36 +204,46 @@ Linux
 ├── IPTables
 └── System Administration
 ```
-
 ---
 
-##  Featured Projects
+<h3> Enterprise Threat Monitoring</h3>
 
-### Enterprise Threat Monitoring
+<p><b>Focus:</b> Security Monitoring & SIEM</p>
 
-**Focus:** Security Monitoring & SIEM
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-101828?style=flat-square&logo=microsoftazure&logoColor=00E5FF" alt="Microsoft Sentinel"/>
+  <img src="https://img.shields.io/badge/Splunk-101828?style=flat-square&logo=splunk&logoColor=65A637" alt="Splunk"/>
+  <img src="https://img.shields.io/badge/Elastic%20SIEM-101828?style=flat-square&logo=elastic&logoColor=00E5FF" alt="Elastic SIEM"/>
+</p>
 
-`Microsoft Sentinel` `Splunk`  `Elastic SIEM`
+<p>
+🔹 Centralized log collection<br>
+🔹 Security event monitoring<br>
+🔹 Threat detection<br>
+🔹 Alert generation<br>
+🔹 Incident investigation
+</p>
 
-* Centralized log collection
-* Security event monitoring
-* Threat detection
-* Alert generation
-* Incident investigation
+<hr>
 
----
+<h3>  Network Security Lab</h3>
 
-###  Network Security Lab
+<p><b>Focus:</b> Network Security & Infrastructure</p>
 
-**Focus:** Network Security & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-101828?style=flat-square&logo=cisco&logoColor=00E5FF" alt="Cisco"/>
+  <img src="https://img.shields.io/badge/Packet%20Tracer-101828?style=flat-square&logo=cisco&logoColor=00E5FF" alt="Packet Tracer"/>
+  <img src="https://img.shields.io/badge/Wireshark-101828?style=flat-square&logo=wireshark&logoColor=00E5FF" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Firewalls-101828?style=flat-square&logoColor=00E5FF" alt="Firewalls"/>
+</p>
 
-`Cisco` `Packet Tracer` `Wireshark` `Firewalls`
-
-* Network configuration
-* IP addressing and subnetting
-* Traffic analysis
-* Network troubleshooting
-* Security monitoring
+<p>
+🔹 Network configuration<br>
+🔹 IP addressing & subnetting<br>
+🔹 Traffic analysis<br>
+🔹 Network troubleshooting<br>
+🔹 Security monitoring
+</p>
 
 ---
 
@@ -297,6 +307,7 @@ Linux
 <a href="https://instagram.com/sanduni sewwandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanduni sewwandi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/securebyte learning sandu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="securebyte learning sandu" height="30" width="40" /></a>
 </p>
+
 ---
 <h3 align="center"> Cyber Security Mindset</h3>
 
