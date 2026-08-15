@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0066FF,100:7C3AED&height=180&section=header&text=Sanduni%20Sewwandi&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">🛡️ Hi 👋, I'm Sanduni Sewwandi</h1>
+<h1 align="center"> Hi 👋, I'm Sanduni Sewwandi</h1>
 
 <h3 align="center">
   Cyber Security Undergraduate @ SLIIT
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛡️ About Me
+##  About Me
 
 **Cyber Security Undergraduate** at the **Sri Lanka Institute of Information Technology (SLIIT)**
 
