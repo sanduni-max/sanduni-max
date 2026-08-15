@@ -21,7 +21,7 @@
 
 ## 🛡️ About Me
 
-- **Cyber Security Undergraduate** at the **Sri Lanka Institute of Information Technology (SLIIT)**
+**Cyber Security Undergraduate** at the **Sri Lanka Institute of Information Technology (SLIIT)**
 
 - Passionate about **Cyber Security, Network Security, Ethical Hacking and Security Operations**
 
@@ -35,7 +35,7 @@
 
 - Focused on building practical projects and continuously improving my technical skills
 
--**Career Goal:** To build a professional career in Cyber Security and Network Security while contributing to secure and resilient IT environments.
+**Career Goal:** To build a professional career in Cyber Security and Network Security while contributing to secure and resilient IT environments.
 
 ---
 
@@ -213,7 +213,7 @@ Linux
 
 **Focus:** Security Monitoring & SIEM
 
-`Microsoft Sentinel` `Splunk` `IBM QRadar` `Elastic SIEM`
+`Microsoft Sentinel` `Splunk`  `Elastic SIEM`
 
 * Centralized log collection
 * Security event monitoring
@@ -267,7 +267,7 @@ Linux
 
 ---
 
-## 🧪 Practical Security Areas
+##  Practical Security Areas
 
 <p align="center">
 
@@ -285,49 +285,9 @@ Linux
 
 </p>
 
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanduni-max&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanduni-max&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&theme=tokyonight"/>
-
-</p>
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sanduni-max&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
-
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sanduni-max&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-
-</p>
-
----
-
-## 📊 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanduni-max&bg_color=0D1117&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-
-</p>
-
----
 
 ##  Connect With Me
 
@@ -338,45 +298,29 @@ Linux
 <a href="https://www.youtube.com/c/securebyte learning sandu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="securebyte learning sandu" height="30" width="40" /></a>
 </p>
 ---
-
-##  Cyber Security Mindset
+<h3 align="center"> Cyber Security Mindset</h3>
 
 <p align="center">
-
-<b> Think like an attacker.  Defend like a security professional.</b>
-
+  <b>Think like an attacker. Defend like a professional. Secure by design.</b>
 </p>
 
 <p align="center">
-
-<i>
-Security is a continuous journey of learning, testing, detecting and improving.
-</i>
-
+   ** 🔍 Detect • 🛡️ Protect • 🚨 Respond • 🔐 Recover • 📚 Keep Learning**
 </p>
 
-<p align="center">
-
-🔎 Detect   •  
-🛡️ Protect   •  
-🚨 Respond   •  
-🔐 Recover   •  
-📚 Keep Learning
-
-</p>
 
 ---
 
-## 🎯 Current Goals
+##  Current Goals
 
 <p align="center">
 
-🔐 Strengthen Cyber Security skills
-🌐 Improve Network Security expertise
-🛡️ Develop SOC & Threat Detection knowledge
-☁️ Explore Cloud Security & DevSecOps
-⚙️ Build practical security and automation projects
-🚀 Prepare for a professional Cyber Security career
+- Strengthen Cyber Security skills
+- Improve Network Security expertise
+- Develop SOC & Threat Detection knowledge
+- Explore Cloud Security & DevSecOps
+- Build practical security and automation projects
+- Prepare for a professional Cyber Security career
 
 </p>
 
